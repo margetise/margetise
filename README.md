@@ -7,4 +7,4 @@
 - 🌊🐚🐼🌺⛵️☀️🌮
 
 ## My Work ##
-### [My Portfolio](https://margetise.github.io/Portfolio/)
+### [My Portfolio]( https://margetise.github.io/Portfolio/)
